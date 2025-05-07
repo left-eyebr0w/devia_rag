@@ -1,0 +1,10 @@
+pandas
+jupyter
+sentence_transformers
+langchain_community
+langchain_experimental
+langgraph
+langchain_ollama
+langchain_huggingface
+pypdf
+faiss-cpu
